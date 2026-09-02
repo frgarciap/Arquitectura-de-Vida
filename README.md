@@ -24,3 +24,6 @@ Aterriza las metas en el plano táctico.
 *   **Capabilities:** Habilidades que sostienen el modelo. Destaca el *Compromiso sostenido*. Se suman el conocimiento básico en software, conocimiento en entrenamiento deportivo y la capacidad de gestión financiera.
 *   **Resources:** Activos vitales como mi capacidad financiera y mis herramientas e infraestructura tecnológica.
 *   **Courses of Action:** Tácticas de ejecución, como cursar la especialización en Ing. de Software, entrenar fuerza mínimo 3 días por semana y ejecutar el plan de tratamiento veterinario.
+### Report Preview:
+*   <img width="1341" height="882" alt="image" src="https://github.com/user-attachments/assets/54c521bc-84dc-483e-a723-d6b536de9fc7" />
+
