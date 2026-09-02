@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R_NEW8"
+    documentation="La empresa es donde se escalan los puestos.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_E5.xml#E5"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_E15.xml#E15"/>
+</archimate:AssociationRelationship>

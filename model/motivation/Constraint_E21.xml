@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Garantizar horas de sueño necesarias"
+    id="E21"
+    documentation="Límite en no sacrificar descanso."/>

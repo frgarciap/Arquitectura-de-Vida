@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R_NEW4"
+    documentation="La novia está atada a esta restricción de tiempo.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_E3.xml#E3"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_E22.xml#E22"/>
+</archimate:AssociationRelationship>

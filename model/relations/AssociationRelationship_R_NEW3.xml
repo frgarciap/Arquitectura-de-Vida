@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R_NEW3"
+    documentation="La novia es parte del entorno afectivo.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_E3.xml#E3"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_E8.xml#E8"/>
+</archimate:AssociationRelationship>

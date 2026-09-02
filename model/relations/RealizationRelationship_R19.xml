@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R19">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_E25.xml#E25"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_E16.xml#E16"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R_NEW7"
+    documentation="La empresa es el contexto del crecimiento profesional.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_E5.xml#E5"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_E7.xml#E7"/>
+</archimate:AssociationRelationship>

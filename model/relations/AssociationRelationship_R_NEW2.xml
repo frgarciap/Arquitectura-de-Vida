@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R_NEW2"
+    documentation="La familia está atada a esta restricción.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_E2.xml#E2"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_E23.xml#E23"/>
+</archimate:AssociationRelationship>

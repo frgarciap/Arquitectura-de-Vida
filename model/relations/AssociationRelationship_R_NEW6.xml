@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R_NEW6"
+    documentation="Asociados a su meta específica.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_E4.xml#E4"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_E31.xml#E31"/>
+</archimate:AssociationRelationship>

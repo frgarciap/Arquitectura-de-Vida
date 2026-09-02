@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="R_NEW9"
+    documentation="La universidad es el entorno de la especialización.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_E6.xml#E6"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_E14.xml#E14"/>
+</archimate:AssociationRelationship>
